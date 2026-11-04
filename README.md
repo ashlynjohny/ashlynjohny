@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Ashly Johny - Software Developer">
+</p>
 **Hi, I'm Ashly Johny 👋**
 
 **Software Developer | WordPress & PHP Developer | WooCommerce Specialist**
